@@ -5,8 +5,74 @@
 * 2018 meetings are on Wednesday 15:00-17:00 in A.124
 	* 	week 1= April 4
 	* week 12 = June 20 
+	
+## Week 12 Defense
+* Prepare slides
+* Give a test presentation
+	* for friends/other students
+	* at your internship
+
+## Week 11 Thesis finished	
+
+* Hand in 7 days in advance of the defense
+
+	
+## 	Week 10 Introduction and Conclusion finished
+* See that all parts in your thesis have a functional role in answering a (part of a) research question.
+* No problem if you "slighlty"" reword/ reorder/rearaange your research questions at this point.
 
 
+## Week 9 Results section  finished
+* Maybe you need to do some more experiments, but you then have stubs for all the results of those you want to put in.
+
+## Week 8 Methodology section finished
+* This is now cryctal clear and you do'n have time to change anything in your methodology anyway, so just record what you have been doing.
+
+	
+## Week 7 Preliminary results, evaluation in order
+
+1. Present preliminary results
+2. So have a table with evaluation numbers and graphics.
+3. Know how you can use all those numbers to answer your RQ(s).
+
+**You probably won't have all results (yet), but you should have your evaluation pipeline in place and you should know how to turn your results into an answer to tyour RQ(s)**	
+
+	
+## Week 6 Midterm report and presentation	
+
+#### Finished parts of your thesis
+
+1. Title, abstract, keywords
+2. Part of the introduction with the research questions.
+2. Related work
+2. Description of the data/Experimental setup
+
+#### Skeletons ready
+
+* Introduction
+* Methodology
+* Results
+
+	
+## Week 4/5 Description of the data
+
+1. Finish this (sub)section of your thesis.
+2. For the content, see week 1.	
+3. This is an easy to write and read section, with nice plots, which should give th ereader a good overview of your data, in terms of size, content, connections between the variables.
+4. Keep it connected to your research questions.
+5. **Decide** which level of detail you want to include here in the thesis, and which parts you want to put in an Appendix.
+	6. Typically you describe the nitty gritty details of data cleaning and decisions about oulier removals etc in the Appendix. 
+	7. The level of detail in the appendix should be such that your research can be reproduced starting with the raw data.
+
+## Week 4/5 Baseline ML algorithm plus evaluation
+
+1. Based on the ideas expressed in this blogpost <https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa>, create a really simple model from your data. 
+2. Think of Principal Component Analysis and (logistic) regression.
+3. Use `seaborn` plots to understand your data.
+4. Make sure you have a basic ML pipeline in place, including printing some plots which help you understand the workings of your classifier.
+	* confusion matrix
+	* precision recall curve
+	* ..
 
 ## Week 3 Related work
 

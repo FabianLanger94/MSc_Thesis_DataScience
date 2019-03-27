@@ -27,15 +27,15 @@ Most likely your data is too large to store on github, so store it elsewhere. If
         5. Literature overview
         6. How your work is positioned in the literature
 * **Research**
-    3. Exploratory_Data_Analysis
+    1. Exploratory_Data_Analysis
         * Sample data file for playing around and trying things out
         * Notebook(s) doing EDA on your data
         * Notebook doing all the data pre-processing
-    * Experiments
+    2. Experiments
         * Notebook(s) containing experiments with outcomes
         * Notebook(s) for hyperparameter tuning
         * Notebook(s) for setting up train/test if needed
-    * Analysis
+    3. Analysis
         * Basis for your result section.
         * Eg, notebook(s) with significance testing, error analysis, insightfull plots and tables
         * 

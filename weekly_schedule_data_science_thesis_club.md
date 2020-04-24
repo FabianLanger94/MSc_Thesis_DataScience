@@ -88,6 +88,11 @@
 * Use markers and notes to annotate the pdfs so you can quickly find the important parts back.
 * Write for each article a small synopsis with the 3-4 main points, a short abstract in your own words and 2-3 lines why this is relevant to your research. 
 
+### Related work vs Background
+
+* Sometimes you want to *explain* techniques that you use, referring to the literature. This can go to a *background* section. 
+* In the related work you describe how other people have dealt with similar problems as you are dealing with. What were their techniqies, what were their results, what observations did they make that you have used, etc.
+
 ## Week 2 Update on your first full week internally
 
 * Tips and tricks for others
